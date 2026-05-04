@@ -1,7 +1,10 @@
-const Page = () => {
-  return (
-    <div>Page</div>
-  )
-}
+import {
+  Table,
+  TableBody,
+  TableCaption,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
 
-export default Page
+
